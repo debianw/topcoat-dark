@@ -1,0 +1,16 @@
+{
+    "name": "topcoat",
+    "description": "topcoat.io mobile dark ui",
+    "styles": ["style.css"],
+    "fonts": [
+        "font/SourceCodePro-Regular.otf",
+        "font/SourceSansPro-Light.otf",
+        "font/SourceSansPro-Semibold.otf"
+    ],
+    "images": [
+        "img/bg_dark.png",
+        "img/hamburger_bw.svg",
+        "img/search_light.svg",
+        "img/hamburger_light.svg"
+    ]
+}
