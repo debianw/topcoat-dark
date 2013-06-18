@@ -2,6 +2,7 @@
     "name": "topcoat",
     "description": "topcoat.io mobile dark ui",
     "styles": ["style.css"],
+    "version": "0.0.1",
     "fonts": [
         "font/SourceCodePro-Regular.otf",
         "font/SourceSansPro-Light.otf",
